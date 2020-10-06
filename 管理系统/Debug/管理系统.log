@@ -1,0 +1,66 @@
+﻿生成启动时间为 2018/12/28 13:58:25。
+     1>项目“D:\Projects\管理系统\管理系统\管理系统.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\管理系统.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>d:\projects\管理系统\管理系统\注册登录.h(52): warning C4244: “=”: 从“wint_t”转换到“char”，可能丢失数据
+     1>d:\projects\管理系统\管理系统\注册登录.h(89): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\录入.h(147): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\删除.h(63): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\删除.h(6): warning C4101: “k”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\修改.h(190): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\修改.h(512): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\修改.h(11): warning C4101: “bf”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\修改.h(8): warning C4101: “k_num”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\分类.h(22): warning C4013: “k_sort”未定义；假设外部返回 int
+     1>d:\projects\管理系统\管理系统\分类.h(26): warning C4102: “back”: 未引用的标签
+     1>d:\projects\管理系统\管理系统\分类.h(6): warning C4101: “x”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\分类整理.h(4): warning C4101: “i”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\分类整理.h(5): warning C4101: “j”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\排序.h(81): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\排序.h(94): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\排序.h(139): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\排序.h(152): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\排序.h(200): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\排序.h(213): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\排序.h(263): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\排序.h(276): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\排序.h(7): warning C4101: “sel3”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\排序.h(6): warning C4101: “sel2”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\信息.h(7): warning C4101: “sel3”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\信息.h(5): warning C4101: “sel1”: 未引用的局部变量
+     1>d:\projects\管理系统\管理系统\保存.h(49): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\保存.h(64): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+     1>d:\projects\管理系统\管理系统\读取.h(54): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 d:\microsoft visual studio 10.0\vc\include\stdlib.h(843) : 参见“_sleep”的声明
+       Link:
+         D:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\管理系统\Debug\管理系统.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\管理系统.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Projects\管理系统\Debug\管理系统.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\管理系统\Debug\管理系统.lib" /MACHINE:X86 Debug\main.obj
+         LINK : 没有找到 D:\Projects\管理系统\Debug\管理系统.exe 或上一个增量链接没有生成它；正在执行完全链接
+         管理系统.vcxproj -> D:\Projects\管理系统\Debug\管理系统.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Projects\管理系统\Debug\管理系统.exe;#1" /manifest "Debug\管理系统.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\管理系统.unsuccessfulbuild”。
+         正在对“Debug\管理系统.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Projects\管理系统\管理系统\管理系统.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.64
